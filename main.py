@@ -1,1 +1,1 @@
-print('Hello world UwU!')
+print('Welcome to the main file of the Gamedev repository!')
